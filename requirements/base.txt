@@ -20,3 +20,4 @@ celery
 flower
 django-redis
 reportlab
+loguru
